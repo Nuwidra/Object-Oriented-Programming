@@ -1,0 +1,96 @@
+{
+  "aparatos":[
+    {
+      "nombre":"Lavadora"
+      ,"marca":"Whirpool"
+      ,"tipo":"modalidades"
+      ,"modalidades":["delicado","normal","fuerte"]
+    },
+    {
+      "nombre":"Olla arrocera"
+      ,"marca":"Samsung"
+      ,"tipo":"modalidades"
+      ,"modalidades":["delicado","normal","fuerte"]
+    },
+    {
+      "nombre":"Cafetera"
+      ,"marca":"Whirpool"
+      ,"tipo":"modalidades"
+      ,"modalidades":["delicado","normal","fuerte"]
+    },
+    {
+      "nombre":"Licuadora"
+      ,"marca":"LG"
+      ,"tipo":"modalidades"
+      ,"modalidades":["delicado","normal","fuerte"]
+    },
+    {
+      "nombre":"Televisor"
+      ,"marca":"Samsung"
+      ,"tipo":"señales"
+      ,"señales":[7, 102, 53, 44, 480]
+    },
+    {
+      "nombre":"Radio"
+      ,"marca":"Samsung"
+      ,"tipo":"señales"
+      ,"señales":[7, 120, 78]
+    },
+    {
+      "nombre":"Telefono"
+      ,"marca":"Samsung"
+      ,"tipo":"señales"
+      ,"señales":[78, 150, 762]
+    },
+    {
+      "nombre":"Aire Acondicionado"
+      ,"marca":"LG"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":10
+      ,"temperaturaMaxima":35
+    },
+    {
+      "nombre":"Freidora"
+      ,"marca":"Samsung"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":100
+      ,"temperaturaMaxima":400
+    },
+    {
+      "nombre":"Microondas"
+      ,"marca":"Whirpool"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":100
+      ,"temperaturaMaxima":200
+    },
+    {
+      "nombre":"Refrigarador"
+      ,"marca":"Whirpool"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":-110
+      ,"temperaturaMaxima": 0
+    },
+    {
+      "nombre":"Sarten Electrico"
+      ,"marca":"LG"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":100
+      ,"temperaturaMaxima":350
+    },
+    {
+      "nombre":"Olla de cocimiento lento"
+      ,"marca":"LG"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":150
+      ,"temperaturaMaxima":270
+    },
+    {
+      "nombre":"Olla a presion"
+      ,"marca":"Samsung"
+      ,"tipo":"termoRegulable"
+      ,"temperaturaMinima":200
+      ,"temperaturaMaxima":500
+    },
+
+  ]
+}

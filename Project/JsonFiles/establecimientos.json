@@ -1,0 +1,44 @@
+{
+  "establecimientos": [
+    {
+      "Nombre": "Cine La Roncha",
+      "Ubicacion": "Curridabat",
+      "Numero de permiso sanitario":"1234",
+      "Aforo":"500",
+      "ListaDeColaboradores": ["Juanita Perez Abarca", "Rosa Melano Viena", "Elvira Schwarzenegger Abarca", "Dolores Delano Schwarzenegger"]
+
+    },
+    {
+      "Nombre": "Bar Muelitas",
+      "Ubicacion": "San Pedro",
+      "Numero de permiso sanitario":"1235",
+      "Aforo":"50",
+      "ListaDeColaboradores": ["Aquiles Brinco Suarez", "Elsa Pato Cubero", "Luz Rojas Aguero", "Mario Neta Saborio"]
+
+    },
+    {
+      "Nombre": "Gimnasio Musculitos",
+      "Ubicacion": "San Franciso",
+      "Numero de permiso sanitario":"1236",
+      "Aforo":"35",
+      "ListaDeColaboradores": ["Guillermo Nigote Flores", "Soila Cerda Marin", "Esteban Dido Aspar", "Elmer Kurio Salas"]
+
+    },
+    {
+      "Nombre": "Fut 5 Malibu",
+      "Ubicacion": "Mercedes Norte",
+      "Numero de permiso sanitario":"1237",
+      "Aforo":"20",
+      "ListaDeColaboradores": ["Elsa Ria Suarez", "Elvis Nieto Herrera", "Elton Tito Alvarez", "Elba Zurita Carvajal"]
+
+    },
+    {
+      "Nombre": "Panadería Pablito Clavito",
+      "Ubicacion": "Purral",
+      "Numero de permiso sanitario":"1238",
+      "Aforo":"15",
+      "ListaDeColaboradores": ["Kenneth Rojas Suarez", "Carlos Alvarado Cubero", "Jose Andres Alvarado Alfaro", "Kenneth Delano Solis"]
+
+    }
+  ]
+}
